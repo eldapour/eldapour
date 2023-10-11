@@ -172,9 +172,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eldapour&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph" /> <br>
 </div>
 
-<p align="center"><b>Profile Visitor </p>
-<p align="center"><img src="https://profile-counter.glitch.me/eldapour/count.svg" alt="visitor badge" width="50%"></p>
-
 #### Popular Projects
 
 <a href="https://github.com/eldapour/">
@@ -191,3 +188,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldapour&row=1&column=10&theme=dracula&column=100&no-frame=false&no-bg=false" alt="Eldapour"></a></p>
 
 ###
+#### Profile Visitor
+<p align="center"><img src="https://profile-counter.glitch.me/eldapour/count.svg" alt="visitor badge" width="50%"></p>
