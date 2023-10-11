@@ -1,5 +1,5 @@
 ####
-![header](photo_2023-10-11_11-18-14.jpg)
+![header](github-header-image.png)
 
 <picture>
   <img alt="github-snake" src="profile-3d-contrib/profile-night-green.svg" />
