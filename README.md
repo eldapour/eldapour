@@ -168,7 +168,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eldapour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&custom_title=languages graph" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eldapour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&custom_title=languages%20graph" height="180" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=eldapour&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph" /> <br>
 </div>
 
