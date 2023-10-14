@@ -172,17 +172,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eldapour&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph" /> <br>
 </div>
 
-#### Popular Projects
-
-<a href="https://github.com/eldapour/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eldapour&repo=mypos&theme=dracula" />
-</a>    
-<a href="https://github.com/eldapour/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eldapour&repo=learning-academy&theme=dracula" />
-</a>
-
 #### Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldapour&row=1&column=10&theme=dracula&column=100&no-frame=false&no-bg=false" alt="Eldapour"></a></p>
