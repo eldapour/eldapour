@@ -16,11 +16,10 @@ I'm **Abdallah Mahmoud**, a passionate full-stack developer with solid experienc
 
 ## 🛠️ Skills & Tools
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,csharp,nodejs,vue,bootstrap,jquery,laravel,mysql,mongodb,docker,git,github,gitlab,bitbucket,azure,firebase,graphql,nginx,apache,bash,markdown,vscode,visualstudio,phpstorm,pycharm,figma,postman" height="30" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=heroku,dotnet,codeigniter,ubuntu,linux,linkedin,slack,trello,cloudflare,jira,gitkraken,powershell,npm" height="30" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,csharp,laravel,nodejs,vue,jquery,bootstrap,mysql,mongodb,dotnet,codeigniter,docker,nginx,apache,bash,ubuntu,linux,git,github,gitlab,bitbucket,azure,firebase,graphql,postman,heroku,vscode,visualstudio,phpstorm,pycharm,figma,cloudflare,powershell,npm,linkedin,slack,trello,jira,gitkraken" height="150" />
+</p>
+
 
 ---
 
